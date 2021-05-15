@@ -1,0 +1,12 @@
+15/05/2021 13:00:20 - https://random-status-code.herokuapp.com - online: false
+15/05/2021 13:00:20 - https://www.alura.com.br - online: true
+15/05/2021 13:00:26 - https://random-status-code.herokuapp.com - online: false
+15/05/2021 13:00:26 - https://www.alura.com.br - online: true
+15/05/2021 13:00:32 - https://random-status-code.herokuapp.com - online: true
+15/05/2021 13:00:32 - https://www.alura.com.br - online: true
+15/05/2021 13:01:00 - https://random-status-code.herokuapp.com - online: false
+15/05/2021 13:01:01 - https://www.alura.com.br - online: true
+15/05/2021 13:01:06 - https://random-status-code.herokuapp.com - online: false
+15/05/2021 13:01:06 - https://www.alura.com.br - online: true
+15/05/2021 13:01:12 - https://random-status-code.herokuapp.com - online: true
+15/05/2021 13:01:13 - https://www.alura.com.br - online: true
